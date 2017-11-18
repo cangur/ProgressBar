@@ -27,7 +27,7 @@ public class CircularProgress extends View {
     private static final int MIN_SWEEP_ANGLE = 30;
     private static final int DEFAULT_BORDER_WIDTH = 3;
     private final RectF fBounds = new RectF();
-
+dsadas
     private ObjectAnimator mObjectAnimatorSweep;
     private ObjectAnimator mObjectAnimatorAngle;
     private boolean mModeAppearing = true;
